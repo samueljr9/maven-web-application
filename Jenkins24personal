@@ -51,7 +51,7 @@ stage('5.Deploy2UAT'){
 stage('7.Deploy2Prod'){
    steps{
     sh "echo application reviewed, approved and ready for the market" 
-    emailext body: 'Hello Review and approve.   ', subject: 'success', to: 'mylandmarktech@gmail.com'
+    emailext body: 'Hello Review and approve.   ', subject: 'success', to: 'samueljryouta@yahoo.fr'
     }
 }
   }
