@@ -101,8 +101,8 @@
      
       <snapshotRepository>
         <id>nexus</id>
-        <name>Landmark Technologies Snapshot Nexus Repository </name>
-        <url­­http://54.158.74.238:8081/repository/mwa-snapshots/</url>
+        <name>Landmark Technologies Snapshot Nexus Repository</name>
+        <url>­­http://54.158.74.238:8081/repository/mwa-snapshots/</url>
       </snapshotRepository>
       
   </distributionManagement>
